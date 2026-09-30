@@ -1,0 +1,6 @@
+{
+  "name": "Consultor Franzé Hapvida - Planos de Saúde",
+  "description": "Site oficial do Consultor Franzé Hapvida. Simulação online de planos de saúde individuais, familiares e empresariais com ampla rede própria e até 40% de desconto no CNPJ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
